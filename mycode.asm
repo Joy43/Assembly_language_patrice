@@ -1,0 +1,9 @@
+.MODEL SMALL
+.STACK 100H
+.DATA
+.CODE
+MAIN PROC   
+    MOV AH.4CH
+    
+      MAIN ENDP
+     END MAIN
